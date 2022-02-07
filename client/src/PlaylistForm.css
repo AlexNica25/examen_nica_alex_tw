@@ -1,0 +1,12 @@
+.playlist-form {
+    border: 1px solid green;
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 150px;
+    /* align-items: center; */
+    justify-content: space-around;
+    padding: 5px;
+    margin: 5px;
+}
